@@ -114,6 +114,7 @@ header.header.scrolled.shrink nav .glbl-btn {
   margin: 30px 0px;
   font-size: 80px;
   line-height: 80px;
+  text-transform:capitalize;
 }
 
 .banner-contant {
